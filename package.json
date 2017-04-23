@@ -1,0 +1,33 @@
+{
+  "name": "cesar",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "jade": "~1.11.0",
+    "morgan": "~1.8.1",
+    "serve-favicon": "~2.4.2"
+  },
+  "description": "none \u001b[D\u001b[C\u001b[D\u001b[1;6demo only",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarsuba/demo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "cesar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesarsuba/demo/issues"
+  },
+  "homepage": "https://github.com/cesarsuba/demo#readme"
+}
